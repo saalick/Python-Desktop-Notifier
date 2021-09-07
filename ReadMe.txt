@@ -1,2 +1,0 @@
-First of all,Run the requirements.txt file by typing this code in cmd "pip install -r requirements.txt".It may take few seconds to download the requiremnets 
-        Then run  the python file by the command "python main.py"
